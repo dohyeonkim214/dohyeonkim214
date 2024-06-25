@@ -2,8 +2,8 @@
 - 👀 I’m interested in LLMs-Human Interaction, Integrating bioinformatics to Web Development, and Backend engineering.
 - 🌱 I’m currently learning Web Development at Algonquin College, Canada.
 - 💞️ I’m looking to collaborate on multiple corporations in Canada, or Worldwide.
-- 📫 How to reach me : dohyeonkim55@gmail.com
-- 😄 Pronouns: Hi/Him
+- 📫 How to reach me: dohyeonkim55@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Listening to German, Japanese, Chinese, and Korean music in Canada. :)
 
 <!---
