@@ -14,6 +14,8 @@
 
 ** Bioinformatics Portfolio **
 
+** LitLang: A company project, completed until August, 2025. Lauching is until this year.
+
 
 <!---
 dohyeonkim214/dohyeonkim214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
