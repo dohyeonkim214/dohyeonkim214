@@ -1,10 +1,17 @@
 - 👋 Hi, I’m @dohyeonkim214
 - 👀 I’m interested in LLMs-Human Interaction, Integrating bioinformatics to Web Development, and Backend engineering.
+
+  Especially - Applied Linguistics & AI technology
+  L1 and L2 acquisition for heritages as immigrants
+  
 - 🌱 I’m currently learning Web Development at Algonquin College, Canada.
 - 💞️ I’m looking to collaborate on multiple corporations in Canada, or Worldwide.
+- Co-Founder of LitLang(Seed-level company)
 - 📫 How to reach me: dohyeonkim55@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Listening to German, Japanese, Chinese, and Korean music in Canada. :)
+
+- 
 
 ## Projects
 
