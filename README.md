@@ -15,13 +15,12 @@
 
 ## Projects
 
-** Capstone Project for CST8257 **
+** CST8267 **
 
-** ADHD planner **
 
-** Bioinformatics Portfolio **
+** LitLang: A company project, completed until August, 2025. Lauching is until this year
 
-** LitLang: A company project, completed until August, 2025. Lauching is until this year.
+
 
 
 <!---
