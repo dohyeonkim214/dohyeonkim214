@@ -13,6 +13,8 @@
 
 - http://lit-lang.com
 
+- Current Goal: Everyday Commit, pursuing developer career
+
 ## Projects
 
 ** CST8267 **
